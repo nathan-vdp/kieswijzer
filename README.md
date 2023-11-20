@@ -1,6 +1,6 @@
 # ChooseGuide Project (school project)
 
-**Note that this project is based on the Netherlands politics**
+**Note that this project is based on the Dutch politics**
 
 ## Tech-Stack
 
