@@ -1,0 +1,162 @@
+[
+    {
+        "vraag": "Moet de overheid investeren in het verlagen van de regeldruk voor het mkb?",
+        "antwoorden": [
+            {"tekst": "Ja, om het mkb te ondersteunen", "waarde": "-1"},
+            {"tekst": "Nee, de huidige regelgeving is voldoende", "waarde": "+1"}
+        ],
+        "informatie": "Deze vraag gaat over de balans tussen ondersteuning van het mkb (midden- en kleinbedrijf) en het handhaven van regelgeving voor economische stabiliteit. Het mkb speelt een belangrijke rol in de economie, omdat het een groot deel van de werkgelegenheid en innovatie stimuleert. Het verlagen van de regeldruk voor het mkb kan helpen om de groei en concurrentiekracht van deze bedrijven te bevorderen."
+    },
+    {
+        "vraag": "Moet de loondoorbetaling bij ziekte voor werkgevers worden verkort?",
+        "antwoorden": [
+            {"tekst": "Ja, om werkgevers te ontlasten", "waarde": "+1"},
+            {"tekst": "Nee, werknemersbescherming is belangrijk", "waarde": "-1"}
+        ],
+        "informatie": "Deze vraag onderzoekt de balans tussen werknemersbescherming en de lasten voor werkgevers."
+    },
+    {
+        "vraag": "Moet de belastingdruk tussen personeel in vaste dienst en zzp'ers verkleind worden?",
+        "antwoorden": [
+            {"tekst": "Ja, om vast dienstverband aantrekkelijker te maken", "waarde": "+1"},
+            {"tekst": "Nee, de huidige structuur is adequaat", "waarde": "-1"}
+        ],
+        "informatie": "Dit punt raakt aan het evenwicht tussen stimulering van vaste contracten en de flexibiliteit van zzp'ers."
+    },
+    {
+        "vraag": "Moet Nederland meer investeren in duurzame energie, ook als dit leidt tot hogere energiekosten?",
+        "antwoorden": [
+            {"tekst": "Ja, duurzaamheid is prioritair", "waarde": "-1"},
+            {"tekst": "Nee, focus op betaalbare energie", "waarde": "+1"}
+        ],
+        "informatie": "Dit betreft de afweging tussen duurzame energie en de impact op energiekosten."
+    },
+    {
+        "vraag": "Moeten de belastingen voor hogere inkomens verhoogd worden?",
+        "antwoorden": [
+            {"tekst": "Ja, voor meer inkomensgelijkheid", "waarde": "-1"},
+            {"tekst": "Nee, bevorder economische groei", "waarde": "+1"}
+        ],
+        "informatie": "Dit gaat over herverdeling van welvaart versus economische stimulans."
+    },
+    {
+        "vraag": "Moet Nederland een strenger immigratiebeleid voeren?",
+        "antwoorden": [
+            {"tekst": "Ja, voor betere integratie en veiligheid", "waarde": "+1"},
+            {"tekst": "Nee, voor openheid en diversiteit", "waarde": "-1"}
+        ],
+        "informatie": "Deze vraag betreft de balans tussen open grenzen en nationale veiligheid."
+    },
+    {
+        "vraag": "Moet de AOW-leeftijd worden verlaagd?",
+        "antwoorden": [
+            {"tekst": "Ja, om ouderen eerder te laten stoppen", "waarde": "-1"},
+            {"tekst": "Nee, vanwege de financiële houdbaarheid", "waarde": "+1"}
+        ],
+        "informatie": "Dit gaat over pensioenleeftijd in relatie tot werkduur en financiële duurzaamheid."
+    },
+    {
+        "vraag": "Moet er meer geld naar defensie gaan?",
+        "antwoorden": [
+            {"tekst": "Ja, voor nationale veiligheid", "waarde": "+1"},
+            {"tekst": "Nee, investeer in andere sectoren", "waarde": "-1"}
+        ],
+        "informatie": "Deze vraag onderzoekt de prioritering van defensie-uitgaven."
+    },
+    {
+        "vraag": "Moet het lesgeld voor hoger onderwijs worden verlaagd?",
+        "antwoorden": [
+            {"tekst": "Ja, voor toegankelijker onderwijs", "waarde": "-1"},
+            {"tekst": "Nee, huidig systeem is adequaat", "waarde": "+1"}
+        ],
+        "informatie": "Dit betreft de toegankelijkheid en financiering van hoger onderwijs."
+    },
+    {
+        "vraag": "Moet er meer geïnvesteerd worden in openbaar vervoer?",
+        "antwoorden": [
+            {"tekst": "Ja, voor duurzaamheid en bereikbaarheid", "waarde": "-1"},
+            {"tekst": "Nee, focus op wegen en privévervoer", "waarde": "+1"}
+        ],
+        "informatie": "Deze vraag onderzoekt investeringen in openbaar vervoer versus privévervoer."
+    },
+    {
+        "vraag": "Moet er een belasting komen op CO2-uitstoot voor bedrijven?",
+        "antwoorden": [
+            {"tekst": "Ja, om klimaatdoelen te bereiken", "waarde": "-1"},
+            {"tekst": "Nee, dit belemmert economische groei", "waarde": "+1"}
+        ],
+        "informatie": "Dit gaat over milieumaatregelen en hun impact op bedrijven."
+    },
+    {
+        "vraag": "Moet de overheid meer doen om de huizenmarkt toegankelijker te maken?",
+        "antwoorden": [
+            {"tekst": "Ja, door meer te bouwen en te reguleren", "waarde": "-1"},
+            {"tekst": "Nee, de markt moet dit zelf reguleren", "waarde": "+1"}
+        ],
+        "informatie": "Deze vraag betreft de rol van de overheid in de toegankelijkheid van woningen."
+    },
+    {
+        "vraag": "Moet er meer geld naar zorg en ondersteuning?",
+        "antwoorden": [
+            {"tekst": "Ja, voor betere kwaliteit en toegankelijkheid", "waarde": "-1"},
+            {"tekst": "Nee, huidige budgetten zijn voldoende", "waarde": "+1"}
+        ],
+        "informatie": "Dit gaat over de financiering en kwaliteit van de gezondheidszorg."
+    },
+    {
+        "vraag": "Moet Nederland een actievere rol spelen in internationale samenwerking?",
+        "antwoorden": [
+            {"tekst": "Ja, voor wereldwijde solidariteit", "waarde": "-1"},
+            {"tekst": "Nee, focus op nationale belangen", "waarde": "+1"}
+        ],
+        "informatie": "Deze vraag onderzoekt de balans tussen internationale en nationale focus."
+    },
+    {
+        "vraag": "Moet de overheid investeren in het verbeteren van de infrastructuur?",
+        "antwoorden": [
+            {"tekst": "Ja, voor economische groei en mobiliteit", "waarde": "-1"},
+            {"tekst": "Nee, andere sectoren hebben prioriteit", "waarde": "+1"}
+        ],
+        "informatie": "Dit betreft investeringen in wegen, bruggen en openbaar vervoer."
+    },
+    {
+        "vraag": "Moet er een basisinkomen worden ingevoerd?",
+        "antwoorden": [
+            {"tekst": "Ja, voor economische zekerheid", "waarde": "-1"},
+            {"tekst": "Nee, dit ontmoedigt werken", "waarde": "+1"}
+        ],
+        "informatie": "Deze vraag onderzoekt het concept van een universeel basisinkomen."
+    },
+    {
+        "vraag": "Moet er strenger worden opgetreden tegen klimaatverandering?",
+        "antwoorden": [
+            {"tekst": "Ja, met ambitieuze doelen", "waarde": "-1"},
+            {"tekst": "Nee, focus op economische stabiliteit", "waarde": "+1"}
+        ],
+        "informatie": "Dit gaat over de urgentie en aanpak van klimaatverandering."
+    },
+    {
+        "vraag": "Moet de overheid meer investeren in cultuur en kunst?",
+        "antwoorden": [
+            {"tekst": "Ja, voor culturele verrijking", "waarde": "-1"},
+            {"tekst": "Nee, minder prioriteit dan andere sectoren", "waarde": "+1"}
+        ],
+        "informatie": "Deze vraag betreft de financiering en waardering van cultuur en kunst."
+    },
+    {
+        "vraag": "Moeten er strengere maatregelen komen voor bedrijven die belasting ontwijken?",
+        "antwoorden": [
+            {"tekst": "Ja, voor eerlijke belastingheffing", "waarde": "-1"},
+            {"tekst": "Nee, dit belemmert zakelijke vrijheid", "waarde": "+1"}
+        ],
+        "informatie": "Dit betreft het aanpakken van belastingontwijking door bedrijven."
+    },
+    {
+        "vraag": "Moet het onderwijs meer gericht zijn op technologie en innovatie?",
+        "antwoorden": [
+            {"tekst": "Ja, voor toekomstige vaardigheden", "waarde": "-1"},
+            {"tekst": "Nee, focus op traditionele vakken", "waarde": "+1"}
+        ],
+        "informatie": "Deze vraag gaat over de focus van het onderwijscurriculum."
+    }
+]

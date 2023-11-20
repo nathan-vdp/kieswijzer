@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Your website description goes here">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="script.js"></script>
+</head>
+
+<body class="select-none">
+    <header>
+        <nav class="bg-gray-300 p-4">
+            <div class="container mx-auto flex justify-between items-center">
+                <h1 class="text-black text-2xl font-bold ml-2"><span class="text-blue-500">Stem</span>Wijzer</h1>
+                <div class="flex space-x-4">
+                    <a href="javascript:void(0)" class="text-black hover:text-blue-600">Promo video</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container mx-auto mt-8">
+        <h1 class="flex justify-center text-black text-5xl font-bold py-4"><span class="text-blue-500">Stem</span>Wijzer</h1>
+        <h1 class="flex justify-center text-3xl font-bold py-2">Kies jouw standpunten</h1>
+
+        <form id="vragenFormulier" class="relative bg-white border border-gray-200 rounded-md shadow-md">
+            <div class="vragen md:px-12 px-4 pt-4"></div>
+            <div class="md:sticky flex flex-col md:flex-row md:justify-between items-center bottom-0 bg-gray-100/20 rounded-xl backdrop-blur-sm min-h-[10vh] md:px-40 py-3 space-y-2 md:space-y-0">
+                <div id="errors" class="text-xl text-red-500 font-semibold"></div>
+                <button type="button" name="send" id="send" class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-xl px-8 py-3 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Invullen</button>
+            </div>
+        </form>
+
+        <div id="result" class="opacity-0 transition-opacity duration-500 mb-4">
+            <h1 class="flex justify-center text-black text-5xl font-bold py-4"><span class="text-blue-500">Stem</span>Wijzer</h1>
+            <h1 class="flex justify-center text-3xl font-bold py-2">Jouw resultaten</h1>
+            <div class="relative bg-white p-6 border border-gray-200 rounded-md shadow-md">
+                <div class="flex justify-center text-center text-2xl font-semibold mb-4">
+                    Op basis van jouw antwoorden, zijn dit de partijen die het beste bij jou passen:
+                </div>
+                <ol id="partijen" class="flex flex-col items-center space-y-4"></ol>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

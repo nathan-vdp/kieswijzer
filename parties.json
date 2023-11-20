@@ -1,0 +1,132 @@
+[
+    {
+        "name": "VVD (Volkspartij voor Vrijheid en Democratie)",
+        "spectrum": "Conservatief-liberalisme",
+        "score": 15
+    },
+    {
+        "name": "D66 (Democraten 66)",
+        "spectrum": "Sociaal-liberalisme",
+        "score": -5
+    },
+    {
+        "name": "GroenLinks/PvdA (GroenLinks/Partij van de Arbeid)",
+        "spectrum": "Sociaaldemocratie, Groene politiek",
+        "score": -15
+    },
+    {
+        "name": "PVV (Partij voor de Vrijheid)",
+        "spectrum": "Rechts-populisme",
+        "score": 20
+    },
+    {
+        "name": "CDA (Christen-Democratisch Appèl)",
+        "spectrum": "Christendemocratie",
+        "score": 5
+    },
+    {
+        "name": "SP (Socialistische Partij)",
+        "spectrum": "Democratisch socialisme",
+        "score": -20
+    },
+    {
+        "name": "Forum voor Democratie",
+        "spectrum": "Rechts-populisme",
+        "score": 20
+    },
+    {
+        "name": "Partij voor de Dieren",
+        "spectrum": "Dierenrechtenactivisme",
+        "score": -10
+    },
+    {
+        "name": "ChristenUnie",
+        "spectrum": "Christendemocratie",
+        "score": 5
+    },
+    {
+        "name": "Volt Nederland",
+        "spectrum": "Eurofederalisme",
+        "score": -5
+    },
+    {
+        "name": "JA21 (Juiste Antwoord 2021)",
+        "spectrum": "Rechts-populisme",
+        "score": 15
+    },
+    {
+        "name": "SGP (Staatkundig Gereformeerde Partij)",
+        "spectrum": "Christelijk rechts",
+        "score": 10
+    },
+    {
+        "name": "DENK",
+        "spectrum": "Belangen van minderheden",
+        "score": -5
+    },
+    {
+        "name": "50PLUS",
+        "spectrum": "Belangen van ouderen",
+        "score": 0
+    },
+    {
+        "name": "BBB (BoerBurgerBeweging)",
+        "spectrum": "Agrarisme",
+        "score": 10
+    },
+    {
+        "name": "BIJ1",
+        "spectrum": "Antiracisme",
+        "score": -20
+    },
+    {
+        "name": "Piratenpartij – De Groenen",
+        "spectrum": "Piratenpolitiek, Groene politiek",
+        "score": -10
+    },
+    {
+        "name": "Belang van Nederland (BVNL)",
+        "spectrum": "Rechts-populisme",
+        "score": 15
+    },
+    {
+        "name": "Nieuw Sociaal Contract (NSC)",
+        "spectrum": "Christendemocratie",
+        "score": 5
+    },
+    {
+        "name": "Splinter",
+        "spectrum": "Anti-identiteitspolitiek",
+        "score": 0
+    },
+    {
+        "name": "LP (Libertaire Partij)",
+        "spectrum": "Libertarisme",
+        "score": 15
+    },
+    {
+        "name": "LEF – Voor de Nieuwe Generatie",
+        "spectrum": "Jeugdpolitiek",
+        "score": -5
+    },
+    {
+        "name": "Samen voor Nederland",
+        "spectrum": "Rechts-populisme",
+        "score": 20
+    },
+    {
+        "name": "Nederland met een Plan",
+        "spectrum": "Participatieve democratie",
+        "score": -5
+    },
+    {
+        "name": "Partij voor de Sport",
+        "spectrum": "Gezondheidspromotie",
+        "score": -5
+    },
+    {
+        "name": "Politieke Partij voor Basisinkomen (PPvB)",
+        "spectrum": "Universeel basisinkomen activisme",
+        "score": -15
+    }
+]
